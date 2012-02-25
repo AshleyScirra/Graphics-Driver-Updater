@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GfxDriverUpdater", "GfxDriverUpdater.vcproj", "{08BBB94A-4151-4C98-A2EA-B0F225E9F070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BBB94A-4151-4C98-A2EA-B0F225E9F070}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08BBB94A-4151-4C98-A2EA-B0F225E9F070}.Debug|Win32.Build.0 = Debug|Win32
+		{08BBB94A-4151-4C98-A2EA-B0F225E9F070}.Release|Win32.ActiveCfg = Release|Win32
+		{08BBB94A-4151-4C98-A2EA-B0F225E9F070}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
