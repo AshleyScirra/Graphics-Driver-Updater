@@ -22,3 +22,8 @@ Therefore this tool is designed to make it as easy as possible for end-users to 
 - recommending as a general maintenance/housekeeping for someone's computer.
 
 Making sure everyone has the latest drivers benefits everyone, so please use this wherever you like, uncredited, for any purpose at all.
+
+Technical details
+-----------------
+
+The source is a Visual Studio 2008 C++ MFC project.  It should work on Windows XP and newer.
